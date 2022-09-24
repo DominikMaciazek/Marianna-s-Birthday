@@ -8,5 +8,5 @@ Project is created with:
 * HTML5
 * CSS3
 * JavaScript
-* photos from : https://unsplash.com/
+* pictures from : https://unsplash.com/
 	
